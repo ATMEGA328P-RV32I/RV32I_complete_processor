@@ -6,3 +6,5 @@ This is a complete processor design built using **SystemVerilog**.
 * **Hazard Unit**: Manages data and control hazards to prevent errors.
 * **Forwarding Logic**: Speeds up data paths between stages.
 * **Apache License 2.0**: Open for others to learn from and use!
+![Waveform Image](waveform.png)
+![Waveform Image](waveform1.png)
