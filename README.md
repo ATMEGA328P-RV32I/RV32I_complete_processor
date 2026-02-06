@@ -12,7 +12,7 @@ If you have any questions about this RV32I processor or want to discuss my work 
 
 **Name**: Atul Kumar
 
-**Education**: Electronics and Communication Engineering (ECE) student at IIT Patna (4th Semester)
+**Education**: B.Tech. in Electronics and Communication Engineering at IIT Patna
 
 **Academic Standing**: Current CGPA: 9.03
 
