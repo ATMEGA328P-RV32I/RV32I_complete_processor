@@ -6,3 +6,13 @@ This is a complete processor design built using **SystemVerilog**.
 * **Hazard Unit**: Manages data and control hazards to prevent errors.
 * **Forwarding Logic**: Speeds up data paths between stages.
 * **Apache License 2.0**: Open for others to learn from and use!
+Contact
+If you have any questions about this RV32I processor or want to discuss my work on the hazard unit and forwarding logic, feel free to reach out!
+
+Name: Atul Kumar
+
+Education: Electronics and Communication Engineering (ECE) student at IIT Patna (4th Semester)
+
+Academic Standing: Current CPI: 9.03
+
+Interests: VLSI, Computer Architecture, and Digital Design
